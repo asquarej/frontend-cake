@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CommitList>
+  <Commit>
+    <Sha>254df7bd5296231acf75f88c46d6500525a3de98</Sha>
+    <Path>cake/image/image 1.jpg</Path>
+    <Status>renamed</Status>
+    <NewPath>cake/image/image1.jpg</NewPath>
+  </Commit>
+  <Commit>
+    <Sha>c82e891729974398413a2b2fcf9306617f247fc1</Sha>
+    <Path>cake/image/image 2.jpg</Path>
+    <Status>renamed</Status>
+    <NewPath>cake/image/image2.jpg</NewPath>
+  </Commit>
+  <Commit>
+    <Sha>34ceb5ca2a1f9c64bf5cd29e85f04c797f978538</Sha>
+    <Path>cake/image/image 3.jpg</Path>
+    <Status>renamed</Status>
+    <NewPath>cake/image/image3.jpg</NewPath>
+  </Commit>
+</CommitList>
