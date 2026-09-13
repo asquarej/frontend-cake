@@ -15,8 +15,8 @@ body, html{
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	/* fixed = paralax
-	scroll= normal
+	/* fixed = parallax
+	   scroll= normal
 	*/
 
 	background-attachment: fixed;
@@ -46,7 +46,7 @@ section{
 }
 
 .section-light{
-	background-size: #f4f4f4;
+	background-color: #f4f4f4;
 	color: #666;
 }
 
@@ -73,7 +73,7 @@ section{
 	padding:20px;
 }
 
-/*hi/*
+/* hi */
 .sectioncontent{
 	display: flex;
     flex-direction: column;
@@ -85,4 +85,3 @@ section{
 .sectioncontent p{
 	text-align: center;
 }
-<section class="sectioncontent section-dark">
